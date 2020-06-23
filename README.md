@@ -1,7 +1,7 @@
-# GaS_GeoT
+# GaS_GeoT Computer Program
 
-GaS_GeoT (Gas Geothermometers) is an application developed in the Java language. It includes 8 new geothermometric equations or geothermometers (GasG1 to GasG8). Each equation estimates the temperature (°C) of the geothermal reservoir; based on the coefficients obtained through the implementation of artificial neural networks.
+GaS_GeoT (Gas Geothermometers) is an application developed in the Java programming language. It includes eight new gas geothermometers (GasG1 to GasG8) derived for the determination of subsurface temperatures in geothermal systems. Each geothermometric equation predicts the subsurface temperature in °C either for liquid— or vapor—dominated geothermal reservoirs. The coefficients of the eight gas geothermoemtric equations were  obtained from optimized artificial neural network architectures by using a MCDA method.
 
 Release Notes:
+Before using the GaS_GeoT program, it is necessary to install the java virtual machine which is freely available on the following web site: https://www.java.com/es/download/
 
-Before using the GaS_GeoT application, it is necessary to install the java virtual machine available on the official site https://www.java.com/es/download/
