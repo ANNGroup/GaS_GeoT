@@ -1,6 +1,7 @@
 # GaS_GeoT: A computer program for an effective use of newly improved gas geothermometers in predicting reliable geothermal reservoir temperatures
 
 Reference
+
 A. Acevedo-Anicasio, E. Santoyo, D. Pérez-Zárate, Kailasa Pandarinath, M. Guevara, & L. Díaz-González. (2020) GaS_GeoT: A computer program for an effective use of newly improved gas geothermometers in predicting reliable geothermal reservoir temperatures. Geothermal Energy.
 
 GaS_GeoT (Gas Geothermometers) is an application developed in the Java programming language. It includes eight new gas geothermometers (GasG1 to GasG8) derived for the determination of geothermal reservoir temperatures. Each geothermometric equation predicts the geothermal reservoir temperature in °C either for liquid- or vapor-dominated geothermal reservoirs. The coefficients of the eight gas geothermometer equations were obtained from the optimization process between the artificial neural network architectures and the MCDA method.
